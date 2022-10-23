@@ -1,0 +1,15 @@
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.csproj.AssemblyReference.cache
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.AssemblyInfoInputs.cache
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.AssemblyInfo.cs
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.csproj.CoreCompileInputs.cache
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\bin\Debug\net6.0\MYAZ_203_03.exe
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\bin\Debug\net6.0\MYAZ_203_03.deps.json
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\bin\Debug\net6.0\MYAZ_203_03.runtimeconfig.json
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\bin\Debug\net6.0\MYAZ_203_03.dll
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\bin\Debug\net6.0\MYAZ_203_03.pdb
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.dll
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\refint\MYAZ_203_03.dll
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.pdb
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\MYAZ_203_03.genruntimeconfig.cache
+C:\Users\Sumeyye\source\repos\MYAZ_203_03\MYAZ_203_03\obj\Debug\net6.0\ref\MYAZ_203_03.dll
